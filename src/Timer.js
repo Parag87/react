@@ -5,6 +5,7 @@ export default class Timer extends React.Component{
     constructor(props){
       super(props);
       this.state = {counter:0};
+      this.timer = null;
       this.go = this.go.bind(this);
     }
 
