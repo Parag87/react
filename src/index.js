@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Timer from './Timer';
+import Boxes from './Boxes';
 import './index.css';
 
 ReactDOM.render(
   <div>
-  <Timer />
-  <Timer />
+  <Boxes />
+
   </div>,
   document.getElementById('root')
 );
