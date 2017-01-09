@@ -1,0 +1,9 @@
+.boxNew{
+  background-color: #ccc;
+  padding: 20px;
+  margin: 15px;
+  display: inline-block;
+}
+.formElement{
+  padding: 20px;
+}

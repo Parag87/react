@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Boxes from './Boxes';
+import NewBoxes from './newBoxes';
 import './index.css';
 
 ReactDOM.render(
   <div>
-  <Boxes />
+  <NewBoxes />
 
   </div>,
   document.getElementById('root')
